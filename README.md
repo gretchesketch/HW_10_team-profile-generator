@@ -1,21 +1,22 @@
 # HW_10_team-profile-generator
 
-Table CONTENTS
----------------------
+Table of Contents
+-------------------------------------------------------------------------------------------------------
 
  * Introduction
  * Tech
  * Installation
- * Configuration
  * Troubleshooting
  * Contributers
 
 
 
- INTRODUCTION
-----------------------
+ Introduction
+----------------------------------------------------------------------------------------------------------
 
 An app that promts a user in the command line to input various employee information that will generate in an html file. The file can be viewed in the browser as well.
+
+    When the user runs node and the index.js file in the command line, inquirer will prompt the user for information pertenant to a specific employee: Manager, Engineer, or Intern. Once the user has indicated that they have finished inputing the team memebers information in the terminal by typing n when prompted, an html file following a template will be generated and unlike the template it will have the dynamically created employee cards displayed inside.
 
  * Live URL:
 
@@ -24,7 +25,7 @@ An app that promts a user in the command line to input various employee informat
 
 
 Tech
------------------------
+------------------------------------------------------------------------------------------
 
 This project used the following:
 
@@ -38,8 +39,8 @@ This project used the following:
  * Jest (for testing)
 
 
-INSTALLATION
-------------
+Instalations
+--------------------------------------------------------------------------------------------
  
  * it is required to install inquirer in the command line by running 'npm i inquirer'.
 
@@ -47,9 +48,16 @@ INSTALLATION
 
 
 
+ Troubleshooting
+----------------------------------------------------------------------------------------
+
+* jest was used to test the functionality of the project.
+
+
+
 
  Contributers and contact information
----------------------------------------------------
+----------------------------------------------------------------------------------------
  
  * Gretchen Jensen : https://github.com/gretchesketch
 
