@@ -118,7 +118,6 @@ function employeeData() {
             managerCard = managerCard.replace('{{role}}', manager.getRole());
             managerCard = managerCard.replace('{{id}}', manager.getId());
             managerCard = managerCard.replace('{{email}}', manager.getEmail());
-            managerCard = managerCard.replace('{{officeNumber}}', manager.getOfficeNumber());
 
             
             // declaring cards to hold the value of managerCard
@@ -137,7 +136,7 @@ function employeeData() {
             fs.writeFileSync('./output/team.html', main);
 
             // checking that the html has been generated
-            console.log("The team.html has been generated in output");
+            console.log("The team.html has been generated");
         }
     });
 }
