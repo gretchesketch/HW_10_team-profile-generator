@@ -4,11 +4,16 @@
     font-family: "noto serif";
 } 
 header {
-    background-color: red;
-    color: white;
+    background-color: rgb(147, 223, 33);
+    color: rgb(195, 209, 199);
     text-align: center;
 }
 
 body{
     text-align: center;
+}
+
+footer {
+    background-color: rgb(147, 223, 33);
+    color: rgb(195, 209, 199);
 }
