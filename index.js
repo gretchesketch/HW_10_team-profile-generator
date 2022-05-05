@@ -3,9 +3,9 @@ const inquirer = require("inquirer");
 const fs = require('fs');
 
 // Employee template based on these below.
-// const Engineer = require("./lib/Engineer");
-// const Intern = require("./lib/Intern");
-// const Manager = require("./lib/Manager");
+// const Engineer = require("./lib/engineer");
+// const Intern = require("./lib/intern");
+// const Manager = require("./lib/manager");
 
 
 // This array fills in with employee data.
@@ -16,7 +16,7 @@ let manager;
 // let because it will change values
 let teamTitle;
 
-
+// Generates the manager card and uses inquirer to promt the user from the command line
 function managerData() {
     inquirer.prompt([
         {   // Fill html with teamName.
@@ -48,6 +48,7 @@ function managerData() {
         });
 }
 
+// generates the emplyee data and uses inquirer to promt the user from the comman line
 function employeeData() {
     inquirer.prompt([
         {
