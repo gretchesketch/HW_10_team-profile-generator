@@ -1,3 +1,7 @@
+// This is the test for the Employee class that will run with jest.
+// Employee is the parent class to: Engineer, Intern, and Manager.
+
+// bringing in the file we want to test, the employee.js file.
 const Employee = require("../lib/Employee");
 
 describe("Employee", () => {

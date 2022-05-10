@@ -1,3 +1,8 @@
+// This is the test for the Intern class that will run with jest.
+// We only have to test the code for school and intern because those are unique traits to the class of Intern.
+// The other traits were already tested with the Employee class (parent class).
+
+// bringing in the intern file we want to test.
 const Intern = require("../lib/Intern");
 
 describe("Intern", () => {

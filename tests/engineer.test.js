@@ -1,3 +1,8 @@
+// This is the test for the Engineer class that will run with jest.
+// We only have to test the engineer and the github code that pertains to the class Engineer
+// This is because the other code that applys to all roles has already been tested in the Employee class (parent class) test.
+
+// bringing in the engineer file we want to test.
 const Engineer = require("../lib/Engineer");
 
 describe("Engineer", () => {

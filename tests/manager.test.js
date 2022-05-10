@@ -1,3 +1,8 @@
+// This is the test for the Manager class that will run with jest.
+// We only have to test the Manager and office number part of the code because it is unique to the Manager class.
+// The other traits that pertain to all employees was tested in the Employee class (parent class) code.
+
+// bringing in the manager file we want to test.
 const Manager = require("../lib/Manager");
 
 describe("Manager", () => {
