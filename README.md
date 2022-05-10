@@ -18,9 +18,9 @@ An app that promts a user in the command line to input various employee informat
 
     When the user runs node and the index.js file in the command line, inquirer will prompt the user for information pertenant to a specific employee: Manager, Engineer, or Intern. Once the user has indicated that they have finished inputing the team memebers information in the terminal by typing n when prompted, an html file following a template will be generated and unlike the template it will have the dynamically created employee cards displayed inside.
 
- * Live URL:
+ * Live URL: https://gretchesketch.github.io/HW_10_team-profile-generator/
 
- * Repo URL:
+ * Repo URL: https://github.com/gretchesketch/HW_10_team-profile-generator
 
 
 
@@ -35,7 +35,6 @@ This project used the following:
  * Node.js
  * inquirer
  * fs (for access to the file system)
- * Google Fonts
  * Jest (for testing)
 
 
@@ -64,3 +63,10 @@ Instalations
  * Special shout out to my tutor Henry
 
  * Also like to thank my class instructor, Trey, for making himself available to ensure the class got through the homework assignment.
+
+
+
+
+
+ ![img](assets\team-generator_nodePrompt_screenShot.jpg "node prompt image")
+ ![img](assets\team-generator_nodePrompt_screenShot.jpg "generated live page")
