@@ -62,3 +62,5 @@ Instalations
  * Gretchen Jensen : https://github.com/gretchesketch
 
  * Special shout out to my tutor Henry
+
+ * Also like to thank my class instructor, Trey, for making himself available to ensure the class got through the homework assignment.
