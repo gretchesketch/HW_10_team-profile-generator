@@ -44,7 +44,7 @@ Instalations
  
  * it is required to install inquirer in the command line by running 'npm i inquirer'.
 
- * 
+ * it is required to install jest in the command line by running 'npm i jest'
 
 
 
