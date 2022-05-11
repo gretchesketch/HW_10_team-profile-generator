@@ -69,4 +69,5 @@ Instalations
 
 
  ![img](assets\team-generator_nodePrompt_screenShot.jpg "node prompt image")
- ![img](assets\team-generator_nodePrompt_screenShot.jpg "generated live page")
+ ![img](assets\team-generator_nodePrompt_screenShot.jpg "generated live page image")
+ ![img](assets\team-generator_runAndPassTests_screenShot.jpg "running tests image")
