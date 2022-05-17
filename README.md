@@ -20,7 +20,8 @@ An app that promts a user in the command line to input various employee informat
 
  * Live URL: https://gretchesketch.github.io/HW_10_team-profile-generator/
 
- * Repo URL: https://github.com/gretchesketch/HW_10_team-profile-generator
+ * Repo URL: cd
+ c
 
 
 
